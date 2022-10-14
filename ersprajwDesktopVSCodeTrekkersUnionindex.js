@@ -1,0 +1,23 @@
+[33mcommit 97b332fa479e4b2113e8af194295c8c1d35514fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: prajwalkutwal <prajwalxkutwal@gmail.com>
+Date:   Fri Oct 14 21:06:28 2022 +0530
+
+    Used layout for the views
+
+[33mcommit 4e7aa9599a77e97da781b1e0b326d45810cfc046[m
+Author: prajwalkutwal <prajwalxkutwal@gmail.com>
+Date:   Fri Oct 14 20:08:27 2022 +0530
+
+    Added some more functionalities
+
+[33mcommit 443ad6595e74a6b17c8fa33e19aaa379683bc8e5[m
+Author: prajwalkutwal <prajwalxkutwal@gmail.com>
+Date:   Fri Oct 14 19:35:27 2022 +0530
+
+    Added a router and a controller
+
+[33mcommit 3df0d86110536ac81f7ba9b4735a5192802550bd[m
+Author: prajwalkutwal <prajwalxkutwal@gmail.com>
+Date:   Fri Oct 14 18:23:25 2022 +0530
+
+    Initializing of files done with express and server fired

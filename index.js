@@ -9,6 +9,11 @@ const path=require('path');
 const expreLayout=require('express-ejs-layouts');
 //use the layout
 app.use(expreLayout);
+app.use(expr.static('./assets'));
+
+//to extreact the styles and scripts for the particular views
+app.set('layout extractStyles',true);
+app.set('layout extractScripts',true);
 
 
 //here we will use routes from express router
