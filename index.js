@@ -6,6 +6,10 @@ const path=require('path');
 //here we will use routes from express router
 app.use('/',require('./routes'));
 
+//Setting up the view
+app.set('view engine','ejs');
+app.set('views','./views');
+
 app.listen(port,flistner);
 
 function flistner(err){
