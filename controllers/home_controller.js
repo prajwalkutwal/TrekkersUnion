@@ -3,6 +3,5 @@
 
 
 module.exports.home=function(req,res){
-    return res.end('<p>Hello there this is from home_controller</p>');
-
+    return res.render('home',{val:"prajwalk"});
 }
